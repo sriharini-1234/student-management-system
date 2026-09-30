@@ -1,0 +1,16 @@
+[
+    {
+        "student_id": 1,
+        "name": "Harini",
+        "age": 19,
+        "course": "python",
+        "email": "sriharini@gmail.com"
+    },
+    {
+        "student_id": 2,
+        "name": "vaishu",
+        "age": 23,
+        "course": "java",
+        "email": "vaish@gmail.com"
+    }
+]
